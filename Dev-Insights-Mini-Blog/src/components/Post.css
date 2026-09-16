@@ -20,7 +20,7 @@
 }
 .post__date {
   font-size: 0.78rem;
-  color: #8791a0;
+  color: #090b0e;
 }
 .post__title {
   margin: 0 0 0.2rem;
@@ -29,5 +29,5 @@
 .post__author {
   margin: 0 0 0.5rem;
   font-size: 0.85rem;
-  color: #57616f;
+  color: #090b0e;
 }
