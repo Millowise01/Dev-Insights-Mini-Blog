@@ -1,3 +1,4 @@
+import withLogger from "./withLogger";
 import React from "react";
 import "./Header.css";
 
@@ -14,4 +15,4 @@ const Header: React.FC = () => {
   );
 };
 
-export default Header;
+export default withLogger(Header, "Header");
